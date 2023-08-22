@@ -46,7 +46,9 @@ classDiagram
 
 ## Swagger
 
-Post
+[Swagger Local](http://localhost:8080/swagger-ui/index.html)
+
+Body Post
 ````
 {
   "name": "Carlitos",
@@ -76,3 +78,4 @@ Post
 ````
 
 ## Publicação em Railway
+[Railway.app](https://railway.app/)
